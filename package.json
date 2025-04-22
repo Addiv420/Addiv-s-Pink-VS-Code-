@@ -4,12 +4,14 @@
   "description": "A pink theme",
   "version": "1.0.0",
   "publisher": "Addiv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Addiv420/Addivs-Pink-VSCode"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
-  "categories": [
-    "Themes"
-  ],
+  "categories": ["Themes"],
   "contributes": {
     "themes": [
       {
