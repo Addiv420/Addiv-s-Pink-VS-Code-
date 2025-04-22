@@ -18,8 +18,6 @@ Perfect for those who love pastel vibes, clean syntax highlighting, and a cozy c
 
 ![Theme Preview](https://github.com/Addiv420/Addivs-Pink-VSCode/blob/main/screenshots/editor.png?raw=true)
 
-> _Don't forget to set your terminal theme to match!_
-
 ---
 
 ## 🔧 Installation
