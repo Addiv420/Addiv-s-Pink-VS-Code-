@@ -1,0 +1,22 @@
+{
+  "name": "addivs-pink",
+  "displayName": "Addiv's Pink",
+  "description": "A pink theme",
+  "version": "1.0.0",
+  "publisher": "Addiv",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Addiv's Pink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Addiv's Pink-color-theme.json"
+      }
+    ]
+  }
+}
