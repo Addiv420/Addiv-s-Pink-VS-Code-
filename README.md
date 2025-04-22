@@ -1,22 +1,22 @@
-# Addiv's Cyan VS Code Theme
+# Addiv's Pink VS Code Theme
 
-A vibrant and clean cyan theme for Visual Studio Code, designed to be refreshing, readable, and cool.  
-Perfect for those who love cyber aesthetics, clear syntax highlighting, and a modern coding vibe.
+A soft and aesthetic pink theme for Visual Studio Code, designed to be cute, readable, and calm.  
+Perfect for those who love pastel vibes, clean syntax highlighting, and a cozy coding experience.
 
 ---
 
 ## ✨ Features
 
-- Bright cyan accents with dark, soft contrast background
-- Carefully selected tones for readability and accessibility
-- Fully themed UI: activity bar, sidebar, status bar, and terminal
-- Consistent style across languages (JS, Python, C++, HTML, etc.)
+- Light pink background with deep contrast highlights
+- Carefully chosen colors for readability and accessibility
+- Fully themed UI, including activity bar, sidebar, status bar, and terminal
+- Styled for consistency across languages (JS, Python, C++, HTML, etc.)
 
 ---
 
 ## 📸 Preview
 
-![Theme Preview](https://github.com/Addiv420/Addivs-Cyan-VSCode/blob/main/screenshots/editor.png?raw=true)
+![Theme Preview](https://github.com/Addiv420/Addivs-Pink-VSCode/blob/main/screenshots/editor.png?raw=true)
 
 ---
 
@@ -24,27 +24,26 @@ Perfect for those who love cyber aesthetics, clear syntax highlighting, and a mo
 
 1. Open **Visual Studio Code**
 2. Go to the **Extensions** view (`Ctrl+Shift+X`)
-3. Search for `Addiv's Cyan`
+3. Search for `Addiv's Pink`
 4. Click **Install**
-5. Press `Ctrl+K Ctrl+T` and select **Addiv's Cyan** from the theme list
+5. Press `Ctrl+K Ctrl+T` and select **Addiv's Pink** from the theme list
 
-Or install directly from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=Addiv.addivs-cyan)
+Or install directly from the [Marketplace](https://marketplace.visualstudio.com/items?itemName=Addiv.addivs-pink)
 
 ---
 
 ## 🖼 Matching Aesthetic
 
 To complete the look:
-- Use a monospaced font with ligatures (e.g. Fira Code, JetBrains Mono)
-- Enable smooth cursor animation and transparent terminal
+- Enable rounded corners and custom font (like Fira Code)
 
 ---
 
 ## 📂 Repository
 
-[GitHub – Addiv’s Cyan Theme](https://github.com/Addiv420/Addivs-Cyan-VSCode)
+[GitHub – Addiv’s Pink Theme](https://github.com/Addiv420/Addivs-Pink-VSCode)
 
-Contributions, feedback and PRs are always welcome 💬
+Contributions, issues and suggestions are welcome 💬
 
 ---
 
@@ -54,4 +53,4 @@ Contributions, feedback and PRs are always welcome 💬
 
 ---
 
-Made with 💙 by Addiv
+Made with 💗 by Addiv
